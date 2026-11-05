@@ -213,5 +213,5 @@ O t-test pareado e o teste de Wilcoxon indicam que as diferenças **não são es
 
 ## 👩‍💻 Autora
 
-**Maria Torres Coelho** — Engenheira Informática
+**Maria Torres Coelho** 
 🔗 [LinkedIn](https://www.linkedin.com/in/maria-coelho-ba14b6284/)
